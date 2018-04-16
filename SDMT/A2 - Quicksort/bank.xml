@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank>
+<Account>
+	<acc_no>19345</acc_no>
+	<Name>Bill Gates</Name>
+	<ifsc>AxB1000</ifsc>
+	<ph_no>6437295678</ph_no>
+</Account>
+<Account>
+	<acc_no>13098</acc_no>
+	<Name>Narayan Murthy</Name>
+	<ifsc>AxB1002</ifsc>
+	<ph_no>6437245780</ph_no>
+</Account>
+<Account>
+	<acc_no>13097</acc_no>
+	<Name>Mukesh Ambani</Name>
+	<ifsc>AxB1004</ifsc>
+	<ph_no>5473489956</ph_no>
+</Account>
+<Account>
+	<acc_no>17876</acc_no>
+	<Name>Sunder Pichai</Name>
+	<ifsc>AxB1008</ifsc>
+	<ph_no>3682953278</ph_no>
+</Account>
+<Account>
+	<acc_no>14580</acc_no>
+	<Name>Ratan Tata</Name>
+	<ifsc>AxB1009</ifsc>
+	<ph_no>5347856348</ph_no>
+</Account>
+
+
+</bank>

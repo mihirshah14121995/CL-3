@@ -1,0 +1,17 @@
+<html>
+
+<h1>Plagiarism Test</h1>
+<body>
+    <form action="/eval" method="POST">
+        Enter string <input name="string" type="text">
+       
+        <input type="submit" value="Submit">
+    </form>
+    <p>    
+    {% if msg %}
+        Your string is {{string1}}
+        <br>Plagiarism = {{ msg }}
+    {% endif %}
+    </p>
+</body>
+</html>
